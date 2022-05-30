@@ -1,0 +1,66 @@
+id: IDD5D488C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:03:16.899071'
+last_modified: '2022-05-30T23:03:16.899081'
+parser: null
+source_metadata:
+  title: Sakya Paṇḍita Series
+  language: en
+  description: 'A series of texts by and about the great scholar Sakya Paṇḍita Kunga
+    Gyaltsen (kun dga'' rgyal mtshan, 1182–1251):'
+  volume:
+    f09EB:
+      title: A Wondrous Instruction for the Moment of Death
+      base_file: f09EB.txt
+      order: 1
+      parent: Advice
+    f227A:
+      title: Meditation on Amitābha
+      base_file: f227A.txt
+      order: 2
+      parent: Advice
+    f5E57:
+      title: Verses of Aspiration to Recite While Prostrating
+      base_file: f5E57.txt
+      order: 3
+      parent: Aspiration Prayers
+    f1EB6:
+      title: The Gaṇacakra Ritual
+      base_file: f1EB6.txt
+      order: 4
+      parent: Commentaries
+    fCB5B:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      base_file: fCB5B.txt
+      order: 5
+      parent: Guru Yoga
+    f1A8C:
+      title: 'The Sun of Ambrosial Wisdom: A Guru Yoga of Dharmarāja Sakya Paṇḍita'
+      base_file: f1A8C.txt
+      order: 6
+      parent: Guru Yoga
+    f3CB7:
+      title: Sakya Paṇḍita’s Instruction on Parting from the Four Attachments
+      base_file: f3CB7.txt
+      order: 7
+      parent: Mind Training
+    fF850:
+      title: Praise to Sakya Paṇḍita
+      base_file: fF850.txt
+      order: 8
+      parent: Praise
+    f5115:
+      title: Prayer to Invoke the Wisdom Mind of the Gentle Protector Sakya Paṇḍita
+      base_file: f5115.txt
+      order: 9
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
